@@ -5,7 +5,7 @@ Started: 28 February 2013.
 
 Introduction
 ============
-The purpose of this project is to create the best Judo rulebook in the world using open collaboration and the pasisonate Judo community to craft a revision of the BJA Contest Rules.
+The purpose of this project is to create the best Judo rulebook in the world using open collaboration and the passionate Judo community to craft a revision of the BJA Contest Rules.
 
 Overview:
 =========
