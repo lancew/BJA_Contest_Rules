@@ -99,7 +99,9 @@ INDEX 3
 BJA ADDITIONAL COMMENTS 37
 ADDENDUM 'A' 38 - 44
 GLOSSARY OF JAPANESE TERMS 45 - 47Page 4 - Issued 13.10.2012
+
 ARTICLE 1 - Competition Area
+============================
 The competition area shall be a minimum of 14m x 14m and a maximum of 16m x 16m and shall be 
 covered by Tatamis or similarly acceptable material.
 The competition area shall be divided into two (2) zones. 
@@ -116,7 +118,9 @@ The competition area must be fixed to a resilient floor or platform (see Appendi
 Where two (2) or more adjoining competition areas are used, a common safety area of between 3m 
 and 4m is necessary.
 A free zone, a minimum of 50cm must be maintained around the competition area.
+
 APPENDIX Article 1 - Competition Area
+--------------------------------------
 For Olympic Games, World Championships, Continental and IJF events, the contest area, generally, 
 must be 8m x 8m.
 Tatamis
@@ -130,20 +134,27 @@ The platform is optional and must be solidly made of wood, while still having a 
 measuring approximately 18m x 18m and no more than 1m in height (generally 50cm or less). (When 
 using a platform, it is recommended that the safety area should be 4m wide all around the competition 
 area).
+
 BJA Commentary:
+---------------
 For BJA National Competitions and other major competitions, 4m safety areas are required between 
 adjoining contest areas and starting tapes are not required. Tapes are optional at other competitions.
 For Senior Competitions, the Contest Area may be a minimum of 6m x 6m, although 7m x 7m should 
 be used as a minimum where possible.Page 5 - Issued 13.10.2012Page 6 - Issued 13.10.2012
+
+
 ARTICLE 2 - Equipment
+======================
 a) Flags (Referee)
 A blue and a white flag for the Referee to use in the Hantei situation in the �Golden Score� 
 contest shall be available close by the contest area (e.g. on the Technical Officials table).
+
 b) Chairs and Flags (Judges)
 Two (2) lightweight chairs must be placed on the safety area at diagonally opposite corners of 
 the contest area and in a position so as not to obstruct the Judges�, Commission members� and 
 Scoreboard Keepers� view of the scoreboard. A blue and a white flag may be placed in a holster 
 affixed to each chair.
+
 c) Scoreboards
 For each competition area there shall be two (2) scoreboards, that indicate the scores 
 horizontally, placed outside the competition area where they can be easily seen by the 
@@ -153,6 +164,7 @@ recorded on the scoreboards. However, the scoreboards must be manufactured with 
 that indicates the penalties received by the contestants. (See Appendix Example)
 Whenever electronic scoreboards are used, manual scoreboards must be available as a backup 
 (see Appendix).
+
 d) Timing clocks
 There shall be timing clocks as follows: 
 ? Contest duration: one (1)
@@ -160,6 +172,7 @@ There shall be timing clocks as follows:
 ? In reserve: one (1)
 Whenever electronic timing clocks are used, manual timing clocks must also be used to check their 
 accuracy (see Appendix).
+
 e) Flags (Timekeepers)
 Timekeepers shall use flags as follows: 
 ? Yellow Time out
@@ -167,18 +180,23 @@ Timekeepers shall use flags as follows:
 It will not be necessary to use the yellow and the green flags whenever an electronic display 
 clock showing contest duration and Osaekomi duration is in use. However, these flags must be 
 available in reserve.
+
 f) Time Signal
 There shall be a bell or similar audible device to indicate to the Referee the end of the time 
 allotted for the contest.
+
 g) Blue and White Judogis
 The contestant shall wear either a blue or white Judogi. 
 (The first contestant called shall wear the white Judogi, the second shall wear the blue.)
+
 APPENDIX Article 2 - Equipment
+--------------------------------
 Position of Scoreboard Keepers / Contest Sheet Writers / Timekeepers
 The Contest Sheet Writers, Scoreboard Keepers and Timekeepers must be facing the Referee. Page 7 - Issued 13.10.2012
 Distance of spectators
 In general the spectators should not be permitted closer than 3m to the competition area (or 
 platform).
+
 Timing clocks and Scoreboards
 The timing clocks must be accessible to those persons responsible for maintaining their accuracy, and 
 they must be checked for accuracy at the start of and regularly during the competition. The 
@@ -187,9 +205,13 @@ as needed.
 The manual timing clocks must be used simultaneously with the electronic equipment, in case of failure 
 of the electronic timing clocks. The manual scoreboards must be available in reserve.
 c) Manual scoreboards
+
 EXAMPLE:
 White has scored Waza-ari and has also been penalised with one (1) Shido.
+
+
 BJA Commentary:
+----------------
 Where reference is made in paragraph e) to �flags�, tournament organisers may authorize 
 the use of solid �bats� whose colour shall correspond to that specified for the flags.
 Where reference is made to blue judogi in paragraph g), tournament organisers may allow 
@@ -205,25 +227,30 @@ start of the contest, should be implemented as soon as possible. At the same tim
 scoreboards should be used to reflect the new positions of the players.
 Note: Contestants are not permitted to wear grade belts in BJA competitions unless the Blue 
 contestant is wearing a Blue Judogi.Page 8 - Issued 13.10.2012
+
+
 ARTICLE 3 - Judo Uniform (Judogi)
+=================================
 The contestants shall wear a Judogi complying with the following conditions:
 a) Strongly made of cotton or similar material, in good condition (without rent or tear). The material 
 must not be so thick, hard or slippery as to prevent the opponent from taking a grip.
+
 b) White or off-white for the first contestant and blue for the second contestant.(See Appendix).
+
 c) Acceptable markings:
-1) National Olympic abbreviation (on back of jacket). Size of the letters 11cm.
-2) National Emblem (on left breast of jacket). Maximum size 100cm�.
-3) Manufacturer's trade mark must be in a visible area on bottom left of jacket,( Maximum size 
+ 1) National Olympic abbreviation (on back of jacket). Size of the letters 11cm.
+ 2) National Emblem (on left breast of jacket). Maximum size 100cm�.
+ 3) Manufacturer's trade mark must be in a visible area on bottom left of jacket,( Maximum size 
 20cm�), or on the bottom edge and inside the permitted publicity zone on the shoulders. 
 (25cm x 25cm)
-4) Shoulder markings (from collar - across shoulder down the arm - both sides of jacket). 
+ 4) Shoulder markings (from collar - across shoulder down the arm - both sides of jacket). 
 Maximum length 25cm and maximum width 5cm. (The same advertising or national 
 colours on both sides).
-5) Advertising on the sleeves, 10cm x 10cm on each sleeve (different advertising allowed). 
+ 5) Advertising on the sleeves, 10cm x 10cm on each sleeve (different advertising allowed). 
 These 100cm� have to be fixed just below and in contact with the stripes of 25cm x 5cm.
-6) Indication of the placing (1st, 2nd, 3rd) at the Olympic Games or World Championships, in an 
+ 6) Indication of the placing (1st, 2nd, 3rd) at the Olympic Games or World Championships, in an 
 area of 6cm x 10cm at the bottom front left side of the jacket.
-7) The contestant's name may be worn on the ends of the belt, lower front of the jacket and upper 
+ 7) The contestant's name may be worn on the ends of the belt, lower front of the jacket and upper 
 front of the trousers up to a maximum of 4cm x 20cm. Also the contestant's name or 
 abbreviation may be placed (printed or embroidered), on the back of the jacket above the 
 National Olympic abbreviation, but in no case in a position to prevent an opponent from 
@@ -231,8 +258,10 @@ grasping the back of the jacket. The letters can be up to a maximum of 7cm high 
 length of the name can be up to a maximum of 30 cm long. This 7cm x 30cm rectangular area 
 must be located 3cm below the collar of the jacket and the back identification must be fixed at 
 4 cm below this area.
+
 Note: For IJF Events and the Olympic Games, the names are indicated on the 30cm x 40cm 
 bibs.
+
 d) The jacket shall be long enough to cover the buttocks and shall at a minimum reach to the fists 
 when the arms are fully extended downwards at the sides of the body and at least 10cm from the 
 knees. The body of the jacket shall be worn with the left side crossed over the right and shall be 
@@ -241,15 +270,18 @@ sleeves of the jacket must reach to the wrist joint at the maximum and 5cm above
 at the minimum. A space of 10 to 15cm shall exist between the sleeve and the arm (bandages 
 included), along the entire length of the sleeve.
 The lapel and collar must be a maximum of 1cm in thickness and 5cm in width.
+
 e) The trousers, free of any markings except for c7 and as specified in Addendum A, shall be long 
 enough to cover the legs and shall at the maximum reach the ankle joint and at the minimum 
 5cm above the ankle joint. A space of 10 to 15cm shall exist between the trouser leg and the leg 
 (bandages included) from the bottom edge of the trousers to the knee.
+
 f) A strong belt, 4 to 5cm wide and 4 to 5mm thick, whose colour corresponds to the grade, shall 
 be worn over the jacket going twice around at waist and tied with a square knot with the first 
 loops inside the knot, tight enough to prevent the jacket from being too loose and long enough to 
 leave 20 to 30cm protruding from each side of the knot when tied. The belt must not be too stiff 
 or too slippery.
+
 g) Female contestants shall wear, under the jacket, a plain white short sleeved, round necked Teeshirt, rather strong, long enough to be worn inside the trousers.Page 9 - Issued 13.10.2012
 APPENDIX Article 3 - Judo Uniform (Judogi)
 If the Judogi of a contestant does not comply with this article, the Referee must order the 
@@ -260,16 +292,23 @@ competition area.
 To ensure that the sleeves of the contestant's jacket are the required length, the Referee shall direct 
 the contestant to raise both arms, fully extended forward at shoulder level, when making the control.
 Where possible a SOKUTEIKI should be used for Judogi control.
+
+
 BJA Commentary:
+-----------------------
 Where reference is made to the colour of the belt in paragraph f), contestants in BJA 
 Competitions shall wear only a white or a blue belt unless one competitor wears a blue 
 judogi as described in the commentary to Article 2.
+
 Judogi Guideline. -
 The reference document is: IJF Judogi Regulations (03/2011).
 Note: The belt should have flexibility (softness). When pushing belt by hand from the both ends toward 
 knot, the belt knot must not be loosening. Belt using too hard or slippery materials, which is easy to 
 have knot loosening, is not allowed. 
-ARTICLE 4 � Hygiene
+
+
+ARTICLE 4 Hygiene
+=====================
 1.The Judogi must not be wet, and show any particular stains and without unpleasant odour.
 2. The nails of the feet and hands shall be cut short.
 3. The personal hygiene of the contestant shall be of a high standard.
@@ -280,14 +319,18 @@ metal components. The head may not be covered except for bandaging of a medical 
 the right to compete and the opponent shall win the contest as provided for in Article 28 of 
 these rules, by Fusen-gachi, if the contest has not yet started, or by Kiken-gachi, if the contest 
 has already started, according to the �majority of three� rule.Page 10 - Issued 13.10.2012
+
 ARTICLE 5 - Referees and Officials
+====================================
 Generally, the contest shall be conducted by one (1) Referee and two (2) Judges under the supervision 
 of the Refereeing Commission. The Referee and Judges shall be assisted by Scoreboard Keepers and 
 Timekeepers.
 The Referee�s uniform shall conform with the dress code of the Organisation.
 The representatives of the Refereeing Commission can communicate with the Referee by using ear 
 pieces.
+
 APPENDIX Article 5 - Referees and Officials
+-------------------------------------------
 The Organising Committee shall ensure that the Timekeepers, Contest Sheet Writers and Scoreboard 
 Keepers as well as other technical assistants have been thoroughly trained as technical officials. There 
 shall be a minimum of two (2) Timekeepers; one to register the real contest time and one to specialise
@@ -316,10 +359,15 @@ the contests.
 If electronic systems are used, the procedure shall be the same as described above. However, manual 
 timing clocks must also be used simultaneously with the electronic equipment to ensure their 
 accuracy and manual scoreboard must be available in reserve.
+
 BJA Commentary:
+----------------
 Where reference is made to �flags�, tournament organisers may authorize the use of solid 
 �bats� whose colour shall correspond to that specified for the flags.
+
+
 ARTICLE 6 - Position and Function of Referee
+=============================================
 The Referee shall generally stay within the contest area. He shall conduct the contest and administer 
 the decision. He shall ensure that the decisions are correctly recorded.
 APPENDIX Article 6 - Position and Function of Referee
@@ -340,7 +388,9 @@ between the Tatamis, that the Judges� chairs are in position and that the cont
 Articles 3 and 4 of the Refereeing Rules. 
 The Referees should ensure that there are no spectators, supporters or photographers in a position to 
 cause a nuisance or a risk of injury to the contestants.
+
 ARTICLE 7 - Position and Function of Judges
+==============================================
 The Judges must assist the Referee and sit opposite each other at two (2) corners outside the contest 
 area. Each Judge must indicate his opinion by making the appropriate official gesture, whenever his 
 opinion differs from that of the Referee on a technical evaluation or a penalty announced by the 
@@ -367,7 +417,9 @@ Should a contestant need to temporarily leave the competition area after the con
 reason considered necessary by the Referee, a Judge must obligatorily go with the contestant to see 
 that no anomaly occurs. This authorisation shall be given only in exceptional circumstances (e.g. to 
 change a Judogi which does not conform with the rules).
+
 APPENDIX Article 7 - Position and function of judges
+-----------------------------------------------------
 The Referee and Judges should leave the competition area during presentations or any lengthy delay in 
 the programme.
 The Judges should sit with both feet apart, outside the contest area and should place their hands, 
@@ -383,11 +435,16 @@ to accompany the contestant is not of the same sex, an official designated by th
 shall substitute for the Judge and accompany the contestant.
 If his competition area is not in use and there is a contest in progress on an adjacent competition area, 
 the Judge should remove his chair if it could endanger the contestants.
+
 BJA Commentary:
+----------------
 Should a Judge signal an action �OUT�, the Referee (for example) Ippon and the other Judge 
 a lesser score, a majority decision should first decide whether the action was �IN� or �OUT� 
 then, if judged �IN� a majority decision should decide the score.
+
+
 ARTICLE 8 - Gestures 
+=====================
 a) The Referee
 The Referee shall make gestures as indicated below when taking the following actions: 
 1) Ippon: shall raise one arm with palm of hand facing forward, high above the head.
@@ -424,7 +481,9 @@ with the forefinger extended from a closed fist.
 with the forefinger at the contestant to be penalised.
 18) False attack: shall extend both arms forward, with hands closed and then make a downward 
 action with both hands.
+
 APPENDIX Article 8 - Gestures
+------------------------------
 When it is not clearly apparent, the Referee may, after the official signal, point to the white or blue 
 tape envisaged, (starting position) to indicate which contestant scored or was penalised.
 To indicate to the contestant/s that he may sit cross-legged at the starting position, if a lengthy delay 
@@ -454,6 +513,7 @@ NON COMBATIVITY PENALTY
 TO CALL THE DOCTOR SIT DOWN STAND UP
 ADJUSTMENT OF JUOGI TO CANCEL NOT VALID
 EXPRESSED OPINIONPage 16 - Issued 13.10.2012
+
 ARTICLE 8 � Gestures (continued)
 b) The Judges
 1) Jonai: To indicate that he considers a throwing technique has started within the contest area and 
@@ -489,7 +549,10 @@ MATE IN NEWAZA
 JUDGE CANCELLING.
 NOT VALID
 HANTEI SITUATION (Ending a �Golden Score� contest)Page 18 - Issued 13.10.2012
+
+
 ARTICLE 9 - Location (Valid Areas)
+==================================
 The contest shall be fought in the contest area. A throwing action must be initiated when at least one 
 competitor is in contact with the contest area. Any technique applied when both contestants are 
 outside the contest area shall not be recognised.
@@ -504,7 +567,9 @@ contest area when the throwing action started may be considered for point scorin
 the action continues uninterrupted.
 b) In Newaza, the action is valid and may continue so long as either contestant has some part of 
 his body touching the contest area.
+
 APPENDIX Article 9 - Location (Valid Areas)
+----------------------------------------------------
 In the case of Osaekomi on the edge - if the one part of the contestant still touching the contest area 
 becomes airborne (i.e. it is raised up and loses contact with the Tatami) - the Referee must announce 
 Mate.
@@ -512,7 +577,9 @@ Once the contest has started, the contestants may only leave the competition are
 to do so by the Referee. Permission will only be given in very exceptional circumstances, such as the 
 necessity to change a Judogi which does not comply with Article 3 or which has become damaged or 
 soiled.
+
 ARTICLE 10 - Duration of contest
+==================================
 1. The duration of the contests and the contest form shall be determined according to the rules of the 
 tournament. 
 For all Championships held under the responsibility of the IJF the time duration of the contests, the 
@@ -526,21 +593,32 @@ Cadet Under 17 Men and Women 4 minutes real contest time and 2 minutes �Golden
 In Team Championships the time duration of contest will be 5 minutes and 3 minutes the period of 
 'Golden Score�.
 2. Any contestant is entitled to a 10 minutes rest between contests.
+
 BJA Commentary:
+-----------------
 For BJA Competitions, the rest period allowed will be equal to the full duration allowed for 
 the contestant�s previous contest.
 3. The referee should be aware of the duration of the contest before coming onto the competition area.Page 19 - Issued 13.10.2012
+
 ARTICLE 11 - Time out
+======================
 The time elapsed between the announcement of Mate and Hajime and between Sono-mama and Yoshi
 by the Referee shall not count as part of the duration of the contest.
+
 ARTICLE 12 - Time Signal
+=========================
 The end of the time allotted for the contest shall be indicated to the Referee by the ringing of a bell or 
 other similar audible signal.
+
 APPENDIX Article 12 - Time signal
+----------------------------------
 When using several competition areas at the same time - the use of different audible signals is 
 required. 
 The time signal must be sufficiently loud to be heard over the noise of the spectators.
+
+
 ARTICLE 13 - Osaekomi Time
+===========================
 1. Equivalences.
 a) Ippon: Total of 25 seconds.
 b) Waza-ari: 20 seconds or more but less than 25 seconds.
@@ -554,7 +632,10 @@ extended until either Ippon (or equivalence) is announced or the Referee announc
 During that time the contestant who receives the Osaekomi (Uke), can counter-attack by applying 
 Shime-waza or Kansetsu-waza. In case of gaining a submission or the incapacity of the contestant 
 making the Osaekomi (Tori), the one who�s under the Osaekomi (Uke) will win the contest by Ippon.
+
+
 ARTICLE 14 - Technique coinciding with Time Signal
+===================================================
 1. Any immediate result of a technique started simultaneously with the time signal shall be valid.
 2. Although a throwing technique may be applied simultaneously with the bell, if the Referee 
 decides that it will not be effective immediately, he shall announce Sore-made.
@@ -563,7 +644,9 @@ the time of the contest shall not be valid, even if the Referee has not yet anno
 4. In the case of Osaekomi announced simultaneously with the time signal, the time allotted 
 for the contest shall be extended until either Ippon (or equivalence) is scored or the 
 Referee announces Toketa or Mate.
+
 ARTICLE 15 - Start of the contest
+=================================
 1.- Before the start of each working day of the Championships the Referee and Judges shall stand 
 together just inside the limits of the competition area (centred) and bow to Joseki, and each other 
 before taking their places.
